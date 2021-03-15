@@ -1,3 +1,4 @@
 # GC_SCM_Project
 scm_balance_check文件夹中的代码实现了GC_SCM系统中数量的校验自动化测试
 Test_File_Oder文件中的代码实现了，生产计划系统的各个供应商文件的自动化上传
+777
