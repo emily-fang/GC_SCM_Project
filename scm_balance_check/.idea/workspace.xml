@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f33e1dae-8ba2-47f3-a16b-a5148ddbc689" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../File_Order_Data/01_HL_WIP_202_20210311_115159.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../File_Order_Data/01_HL_WIP_quancuo_202_20210311_115159.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../File_Order_Data/101_Galaxycore_WH_IN_20210311_115200.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../File_Order_Data/10_Galaxycore_WH_IN_20210311_115200.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../File_Order_Data/111100_Galaxycore_CP_OUT__20210311_115200.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../File_Order_Data/11110_Galaxycore_CP_OUT1__20210311_115200.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../File_Order_Data/11_HL_WI_20210311_115201.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../File_Order_Data/121_Galaxycore_CP_20210311_115201.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../File_Order_Data/12_Galaxycore_CP_OUT__20210311_115201.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../File_Order_Data/1_HL_WIP__20210311_115201.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../File_Order_Data/21_VISEra_WI_20210311_115202.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../File_Order_Data/2_KLT-GALAXYCO_20210311_115202.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../File_Order_Data/33_PL_HL_C_20210311_115202.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../File_Order_Data/3_PL_HL_OCC_20210311_115203.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../File_Order_Data/55_Galaxycore_WH_I_20210311_115203.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../File_Order_Data/66_Galaxycore_OUT_20210311_115203.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../File_Order_Data/6_Galaxycore_OUT_20210311_115203.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../File_Order_Data/75_Galaxycore_WH_IN_ZJ_20210311_115204.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../File_Order_Data/77_KLT-GALAXYCO_20210311_115204.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../File_Order_Data/7_KLT-GALAXYCO_20210311_115204.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../File_Order_Data/88_CIS_PL_KLT_CP_KLT_20210311_115204.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../File_Order_Data/8_CIS_PL_KLT_CP_KLT_20210311_115204.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../File_Order_Data/8_PL_VISERA_OCF__20210311_115204.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../File_Order_Data/99_Galaxycore_WH_IN_20210311_115204.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../File_Order_Data/9_Galaxycore_WH_IN_20210311_115205.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../File_Order_Data/CanSemi_WIP__20210311_115205.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../File_Order_Data/CanSemi_WIP_report_release_20210311_115205.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_File_Order/File_upload.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Test_File_Order/File_upload.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../account_power/gc_people_power.py" beforeDir="false" afterPath="$PROJECT_DIR$/../account_power/gc_people_power.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../account_power/test_gc_power.py" beforeDir="false" afterPath="$PROJECT_DIR$/../account_power/test_gc_power.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../account_power/格科相关人员dispatch 权限.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../account_power/格科相关人员dispatch 权限.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../file/data.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../file/data.xlsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1tQqvtNxsI3jSqcEmvvfeRDBkOb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f33e1dae-8ba2-47f3-a16b-a5148ddbc689" name="Default Changelist" comment="" />
+      <created>1622711894386</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622711894386</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
